@@ -11,3 +11,17 @@ After this we ran the PCA analysis on the dataset. Which suggested the best valu
 
 I compared the different graphs at the end visually and came to the conclusion that there was no significant difference between the 3 and 4 k values.
 Overall a very interesting project and I am looking forward to integrating this into projects at work.
+
+The original scatterplot based on k baing 4:
+![image](https://github.com/yoerisamwel/CryptoClustering/assets/39857716/144fe970-bb0e-46aa-8f9d-be57241520f0)
+
+
+The PCA clusters with the value of k being 3
+![image](https://github.com/yoerisamwel/CryptoClustering/assets/39857716/3bf97d38-ee02-44ec-b66f-c0dc5dede5f9)
+
+The elbow curve:
+![image](https://github.com/yoerisamwel/CryptoClustering/assets/39857716/f1d30bb1-7580-47b6-8a4a-f5d72223b4e9)
+
+The PCA elbow curve:
+![image](https://github.com/yoerisamwel/CryptoClustering/assets/39857716/cb14660b-7300-4b27-a1f8-074ac62a0d99)
+
